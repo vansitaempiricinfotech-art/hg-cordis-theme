@@ -1,1 +1,1 @@
-hg-cordis-theme is a software repository in the Cordis product line at Halgrave Systems, invented for testing.
+A software repository for cordis-theme in the Cordis product line at Halgrave Systems, invented for testing.
