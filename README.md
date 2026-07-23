@@ -1,1 +1,1 @@
-A software repository for cordis-theme in the Cordis product line at Halgrave Systems, invented for testing.
+cordis-theme is a software component in the Cordis product line at Halgrave Systems, invented for testing.
